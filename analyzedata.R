@@ -1,4 +1,4 @@
-libraray(mtcars)
+library(mtcars)
 
 glimpse(mtcars)
 
