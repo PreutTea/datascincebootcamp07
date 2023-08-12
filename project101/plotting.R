@@ -1,3 +1,5 @@
 library(ggplot2)
 
-qplot(mpg, data=mtcars,geom="density")
+a=qplot(mpg, data=mtcars,geom="density")
+
+a
